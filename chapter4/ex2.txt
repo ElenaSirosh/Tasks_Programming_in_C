@@ -1,0 +1,12 @@
+/*
+ * chapter 4, exercise 2
+ * Which of the following are invalid variable names? Why?
+ * Int char 6_05
+ * Calloc Xx alpha_beta_routine
+ * floating _1312 z
+ * ReInitialize _ A$
+ */
+
+char-потому что совпадает с названием типа данных
+6_05-не может начинаться с цифры
+A$-не может содержать $
