@@ -1,5 +1,5 @@
 /*
- * chapter 8, exercise 1, program 8.3
+ * chapter 9, exercise 1, program 9.3
  * Type in and run the seven programs presented in this chapter. Compare the output
  * produced by each program with the output presented after each program in the
  * text.
